@@ -2,4 +2,6 @@
 #Prueba GIT
 $ACTION
   Infbox ACTION
+  Infbox 'segundo cambio'
+  Infbox '3 cambio'
 Return
